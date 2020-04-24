@@ -12,7 +12,6 @@ add_executable(_TSC_Laboratorio3_master
         LICENSE
         main.cpp
         math_tools.h
-        README.md
         sel.h
         TareaLaboratorio3.pdf
         tools.h)
