@@ -2,7 +2,7 @@ Matrix createLocalK(int element,mesh &m){
     Matrix K;
     Vector row1, row2;
 
-    float k = ((m.getParameter(LA_A))*(m.getParameter(LA_E)))*(0.5),
+    float k = (((m.getParameter(LA_A))*(m.getParameter(LA_E)))*(0.5)),
     l = m.getNode(element+1).getX() - m.getNode(element).getX();
     
     row1.push_back(k/l); row1.push_back(-k/l);

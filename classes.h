@@ -87,7 +87,7 @@ class mesh{
         void setParameters(float a,float e,float F){
             parameters[LA_A]= a;
             parameters[LA_E]= e;
-            parameters[EN_El_CHAT]=F;
+            parameters[EN_El_CHAT]=F*(-1);
         }
         void setSizes(int nnodes,int neltos,int ndirich,int nneu){
             sizes[NODES] = nnodes;
