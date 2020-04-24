@@ -1,0 +1,3 @@
+D:/simu/-TSC-Laboratorio3-master/cmake-build-debug/CMakeFiles/_TSC_Laboratorio3_master.dir
+D:/simu/-TSC-Laboratorio3-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/simu/-TSC-Laboratorio3-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/simu/-TSC-Laboratorio3-master/classes.h
+
+D:/simu/-TSC-Laboratorio3-master/display_tools.h
+
+D:/simu/-TSC-Laboratorio3-master/main.cpp
+iostream
+-
+math_tools.h
+D:/simu/-TSC-Laboratorio3-master/math_tools.h
+classes.h
+D:/simu/-TSC-Laboratorio3-master/classes.h
+tools.h
+D:/simu/-TSC-Laboratorio3-master/tools.h
+sel.h
+D:/simu/-TSC-Laboratorio3-master/sel.h
+display_tools.h
+D:/simu/-TSC-Laboratorio3-master/display_tools.h
+
+D:/simu/-TSC-Laboratorio3-master/math_tools.h
+vector
+-
+math.h
+D:/simu/-TSC-Laboratorio3-master/math.h
+stdlib.h
+D:/simu/-TSC-Laboratorio3-master/stdlib.h
+
+D:/simu/-TSC-Laboratorio3-master/sel.h
+
+D:/simu/-TSC-Laboratorio3-master/tools.h
+fstream
+-
+
