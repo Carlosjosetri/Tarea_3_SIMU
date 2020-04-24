@@ -91,9 +91,6 @@
 		<Unit filename="D:/simu/-TSC-Laboratorio3-master/TareaLaboratorio3.pdf">
 			<Option target="_TSC_Laboratorio3_master"/>
 		</Unit>
-		<Unit filename="D:/simu/-TSC-Laboratorio3-master/activity_problem.msh">
-			<Option target="_TSC_Laboratorio3_master"/>
-		</Unit>
 		<Unit filename="D:/simu/-TSC-Laboratorio3-master/classes.h">
 			<Option target="_TSC_Laboratorio3_master"/>
 		</Unit>
@@ -106,7 +103,7 @@
 		<Unit filename="D:/simu/-TSC-Laboratorio3-master/math_tools.h">
 			<Option target="_TSC_Laboratorio3_master"/>
 		</Unit>
-		<Unit filename="D:/simu/-TSC-Laboratorio3-master/pro.msh">
+		<Unit filename="D:/simu/-TSC-Laboratorio3-master/problem.msh">
 			<Option target="_TSC_Laboratorio3_master"/>
 		</Unit>
 		<Unit filename="D:/simu/-TSC-Laboratorio3-master/sel.h">

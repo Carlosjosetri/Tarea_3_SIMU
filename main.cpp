@@ -29,9 +29,10 @@ int main(){
     ensamblaje(m,localKs,localbs,K,b);
     
     applyNeumann(m,b);
-    
+  
     applyDirichlet(m,K,b);
     zeroes(T,b.size());
+
     calculate(K,b,T);
 
     cout << "La respuesta es: \n";
